@@ -1,0 +1,72 @@
+info: ::1 - - [15/Jul/2024:04:03:31 +0000] "DELETE /api/v1/users/3 HTTP/1.1" 404 48 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:03:47 +0000] "GET /api/v1/ HTTP/1.1" 200 29 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:03:51 +0000] "GET /api/v1/users HTTP/1.1" 200 424 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:04:04 +0000] "POST /api/v1/users HTTP/1.1" 501 54 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:04:35 +0000] "POST /api/v1/users HTTP/1.1" 201 226 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:04:41 +0000] "GET /api/v1/users/2 HTTP/1.1" 404 48 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:04:48 +0000] "GET /api/v1/users HTTP/1.1" 200 592 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:05:01 +0000] "GET /api/v1/users/5 HTTP/1.1" 200 233 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:05:09 +0000] "PUT /api/v1/users/2 HTTP/1.1" 404 49 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:06:07 +0000] "PUT /api/v1/users/5 HTTP/1.1" 200 235 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:06:18 +0000] "DELETE /api/v1/users/4 HTTP/1.1" 200 61 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:06:24 +0000] "GET /api/v1/users HTTP/1.1" 200 422 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:08:42 +0000] "DELETE /api/v1/users/1 HTTP/1.1" 500 90 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:14:07 +0000] "DELETE /api/v1/users/1 HTTP/1.1" 500 90 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:04:14:30 +0000] "GET /api/v1/users/5 HTTP/1.1" 200 237 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:36:58 +0000] "GET /api/v1/users HTTP/1.1" 200 422 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:37:03 +0000] "DELETE /api/v1/users/1 HTTP/1.1" 500 54 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:38:24 +0000] "DELETE /api/v1/users/1 HTTP/1.1" 404 48 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:38:32 +0000] "GET /api/v1/users HTTP/1.1" 200 250 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:45:51 +0000] "GET /api/v1/users/Tom HTTP/1.1" 500 81 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:05:48:00 +0000] "GET /api/v1/users/Tom HTTP/1.1" 500 81 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:08:47:43 +0000] "POST /api/v1/users HTTP/1.1" 201 283 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:25:06 +0000] "POST /api/v1/users HTTP/1.1" 409 54 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:25:33 +0000] "GET /api/v1/users/5 HTTP/1.1" 200 237 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:25:42 +0000] "GET /api/v1/users/ HTTP/1.1" 200 475 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:25:51 +0000] "GET /api/v1/users/6 HTTP/1.1" 200 290 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:25:56 +0000] "GET /api/v1/users/ HTTP/1.1" 200 475 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:26:04 +0000] "GET /api/v1/users/6 HTTP/1.1" 200 290 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:27:18 +0000] "POST /api/v1/users HTTP/1.1" 500 46 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:27:31 +0000] "POST /api/v1/users HTTP/1.1" 500 46 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:30:18 +0000] "POST /api/v1/users HTTP/1.1" 201 283 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:33:04 +0000] "PUT /api/v1/users/6 HTTP/1.1" 200 235 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:33:19 +0000] "GET /api/v1/users/ HTTP/1.1" 200 647 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:33:47 +0000] "PUT /api/v1/users/7 HTTP/1.1" 200 235 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:46:50 +0000] "PUT /api/v1/users/7 HTTP/1.1" 200 288 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [15/Jul/2024:10:46:58 +0000] "GET /api/v1/users/ HTTP/1.1" 200 647 "-" "PostmanRuntime/7.39.0"
+
